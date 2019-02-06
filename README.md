@@ -27,6 +27,10 @@ the program can determine whether the person you are searching do use github or 
 
 Tel: +250782387280 you can call and whatsapp me on that number. Email address: mashleyalpha@gmail.com
 
+## License
+
+MT License. copyright (c) 2019 Alpha MBABAZI.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
