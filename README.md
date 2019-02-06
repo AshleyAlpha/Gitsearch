@@ -27,6 +27,11 @@ the program can determine whether the person you are searching do use github or 
 
 
 
+## Acknowledgement
+
+* Moringa school
+* Wecode Moringa
+
 ## Contacts
 
 Tel: +250782387280 you can call and whatsapp me on that number. Email address: mashleyalpha@gmail.com
