@@ -25,7 +25,7 @@ the program can determine whether the person you are searching do use github or 
 
 ## Known Bugs
 
-
+Known bugs are that once you put the username in appropriate place to such, one of github user properties won't be displayed.
 
 ## Acknowledgement
 
