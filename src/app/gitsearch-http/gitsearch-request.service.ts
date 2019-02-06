@@ -24,7 +24,7 @@ export class HttpRequestService {
 
     }
     let promise = new Promise((resolve, reject) => {
-      this.http.get<ApiResponse>('https://api.github.com/users/' + this.user.name + '?access_token=' + environment.api_key).toPromise().then(response => {
+      this.http.get<ApiResponse>('https://api.github.com/users/' + this.user.name + '?access_token=' + environment.apiKey).toPromise().then(response => {
 
         this.repos.public_repos = response.public_repos
         this.repos.following = response.following
