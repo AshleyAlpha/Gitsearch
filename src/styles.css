@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.css"
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+    background-image: url("https://images.pexels.com/photos/276237/pexels-photo-276237.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=500&w=500");
+    background-size: cover;
+    color: black;
+
+    }
+    
