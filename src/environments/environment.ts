@@ -1,9 +1,12 @@
+import { APPLICATION_MODULE_PROVIDERS } from '@angular/core/src/application_module';
+
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiUrl: "3dfc7726d7a8678bad1f245f9799f3ff29bed390"
 };
 
 /*
