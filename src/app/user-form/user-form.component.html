@@ -1,6 +1,7 @@
 <div class="container">
   <form (ngSubmit)='submitForm()' #userForm='ngForm'>
-    Type the name here: <input type="text" id="name" [(ngModel)]="newUser.name" name="name" #name="ngModel" required><br>
+    <p id="par">Type the name here:</p>
+    <input type="text" id="name" [(ngModel)]="newUser.name" name="name" #name="ngModel" required><br>
 
     <button id="miah">Search</button>
   </form>
