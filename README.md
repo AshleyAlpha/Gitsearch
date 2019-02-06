@@ -1,11 +1,16 @@
 ## Project Title: GITHUB SEARCH
 
-## DESCRIPTION
+## Description
 
 This project is helpful to search people that uses GITHUB and having accounts on it. so, once you search someone by writing her/his name in the corresponding place, all details about her/him will be shown such as the picture, number of repositories, people that follows her/him, people that she/he follows and the date she/he created the acoount.
-
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
+
+## Program Guidance
+
+* First of all you have to make sure that you have an internet connection,
+* Open your web browser then,
+* Type this link: https://ashleyalpha.github.io/Gitsearch/ to view the website,
+* Then, start searching people that use and have accounts on GITHUB.
 
 ## Development server
 
