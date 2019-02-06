@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## BDD(Behavior Driven Development)
 
-
+the program can determine whether the person you are searching do use github or not. once you put the user name of who you are searching for and click on search button, it will tell you that, the user name you inserted can't be found on github or if the person is there on github and have an account, it will show all information about her/him such as repositories number, followers and following.
 
 ## Development server
 
